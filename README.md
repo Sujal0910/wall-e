@@ -111,7 +111,3 @@ While the 124M model serves as an excellent local agent, the following system de
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute to the model architecture or expand the agentic toolset.
-
-```
-
-```
