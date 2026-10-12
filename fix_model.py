@@ -1,7 +1,7 @@
 import shutil
 import os
 
-print("1. Stitching PyTorch model back together...")
+print("1. Stitching  PyTorch model back together...")
 
 # Compress the folder back into a PyTorch-compatible architecture
 shutil.make_archive("model_fixed", "zip", root_dir=".", base_dir="gpt2_wall_e_assistant")
