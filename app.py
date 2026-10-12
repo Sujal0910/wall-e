@@ -1,4 +1,4 @@
-print("1. Python script started...")
+print("1. Python scriptstarted...")
 from flask import Flask, request, jsonify, render_template
 
 print("2. Flask imported successfully. Importing PyTorch (this may take a moment)...")
